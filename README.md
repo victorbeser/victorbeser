@@ -34,6 +34,12 @@
 
 <h2>Main Projects<h2>
 
+# Public Free Applications
+
+Have you ever thought about having some features for free, like a BOT for WhatsApp or a PDF conversor? Well, i think it would be great if we could have it, that's why i started this project! I'll try to develop a lot of tools and software in general just to let them free, that's my point.
+
+If you got interested <a>try read more about it clicking here (portuguese version)</a>.
+
 # QuinzeConto
 
 <a href="https://quinzeconto.com.br/">QuinzeConto</a> is a digital services platform available to the public, aiming to facilitate the exchange of services between providers and customers.
