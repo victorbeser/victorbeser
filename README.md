@@ -34,11 +34,20 @@
 
 <h2>Main Projects<h2>
 
+# WhAtsPI
+
+Discover the revolution in WhatsApp customer service with <a href="https://quinzeconto.com.br/whatspi">WhAtsPI</a>! A amazing platform that not only simplifies your interactions but also significantly boosts your sales. Imagine a seamless flow of effective conversations where each interaction is carefully optimized to maximize customer engagement and increase conversion rates. With <a href="https://quinzeconto.com.br/whatspi">WhAtsPI</a>, your customer service transforms into a powerful sales tool, offering a smooth and highly efficient experience.
+
+![image](https://github.com/user-attachments/assets/5d76e7f5-f023-487e-80f1-0fabe44bf789)
+
+<a target="_blank" href="https://quinzeconto.com.br/whatspi">Click here for more about WhAtsPI (portuguese version)!</a>
+
+
 # Public Free Applications
 
-Have you ever thought about having some features for free, like a BOT for WhatsApp or a PDF conversor? Well, i think it would be great if we could have it, that's why i started this project! I'll try to develop a lot of tools and software in general just to let them free, that's my point.
+Have you ever thought about having access to features for free, like a WhatsApp bot or a PDF converter? I believe it would be great if we could have these resources available, which is why I've started this project! My aim is to develop various tools and software in general and offer them for free.
 
-If you got interested <a>try read more about it clicking here (portuguese version)</a>.
+If you got interested, <a href="https://github.com/victorbeser/public-apps">you can learn more by clicking here (portuguese version)</a>.
 
 # QuinzeConto
 
