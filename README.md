@@ -6,7 +6,7 @@
   • Cyber Security Analysis; <br><br>
 
   Extras: <br>
-  • Investor;<br>
+  • Paid Traffic Management;<br>
   • Graphic Designer;<br>
   • Audio-Visual Editor;<br><br>
   An eternal student seeking growth and improvement!</h3>
